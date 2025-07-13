@@ -2,10 +2,9 @@
 
 Version | Description
 --- | --- 
-V1.0 | Demo
+V1.0 | Basic function
 
-![Screen Shot 2024-12-24 at 18 21 52]([https://github.com/user-attachments/assets/7a4afe36-ee11-45e7-a289-7e4b45162e6a](https://github.com/user-attachments/assets/6eff2280-fca2-48ed-9b13-39275f622b0c))
-
+<img width="1440" height="845" alt="Screen Shot 2025-07-13 at 2 07 35" src="https://github.com/user-attachments/assets/5c44d8cc-ccc0-44b6-8929-e78ee2b6f920" />
 
 
 Run app
