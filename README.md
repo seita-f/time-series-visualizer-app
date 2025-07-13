@@ -1,11 +1,8 @@
 # time-series-visualizer-app
 
-Version | Description
---- | --- 
-V1.0 | Basic function
+I developed this app for personal use, to visualize time series data and see what it looks like quickly.
 
-<img width="1440" height="845" alt="Screen Shot 2025-07-13 at 2 07 35" src="https://github.com/user-attachments/assets/5c44d8cc-ccc0-44b6-8929-e78ee2b6f920" />
-
+<img width="1440" height="842" alt="Screen Shot 2025-07-13 at 21 35 48" src="https://github.com/user-attachments/assets/55ca7e25-0a3e-4a1f-8d96-8ff9b46e5acb" />
 
 Run app
 ```
